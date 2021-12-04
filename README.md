@@ -2,7 +2,7 @@
 
 ## About Me
 
-During my undergraduate education and after graduation, I aimed to carry myself further in the mobile development field. For this purpose, I developed many Android and React-Native applications. I am also following the new trends and technologies in computing world. I am working with MVC, MVP and MVVM design patterns. For React-Native, I am improving myself on Redux, Hooks and Context API. 
+Passionate, practical, hardworking software developer with 3+ years of experience and proven cloud and mobile skills. Experienced in Android, iOS, and cross platforms. Developed Android applications using Kotlin and Java languages with MVC, MVVM, MVP design patterns. Developed iOS applications using Swift with VIPER and MVP design patterns, cross platforms applications using Javascript and TypeScript with React-Native framework. Handled state management via Redux, Mobx, and Context API structures. Applied micro component principles for infrastructure. Used AWS technologies as Cloud computing services integrated with mobile. Created maintainable, scalable, stable, extendable infrastructures, and systems by following the principles of "Clean architecture and use case". Looking for career growth and want to pioneer new technologies.
 
 **Languages and Tools:**  
 
