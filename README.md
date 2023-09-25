@@ -2,7 +2,7 @@
 
 ## About Me
 
-Passionate software developer with 3+ years of experience and proven cloud and mobile skills. Experienced in Android, iOS, and cross platforms. Developed Android applications using Kotlin and Java languages with MVC, MVVM, MVP design patterns. Developed iOS applications using Swift with VIPER and MVP design patterns, cross platforms applications using Javascript and TypeScript with React-Native framework. Handled state management via Redux, Mobx, and Context API structures. Applied micro component principles for infrastructure. Used AWS technologies as Cloud computing services integrated with mobile. Created maintainable, scalable, stable, extendable infrastructures, and systems by following the principles of "Clean architecture and use case". Looking for career growth and want to pioneer new technologies.
+Passionate software developer with 5+ years of experience and proven cloud and mobile skills. Experienced in Android, iOS, and cross platforms. Developed Android applications using Kotlin and Java languages with MVC, MVVM, MVP design patterns. Developed iOS applications using Swift with VIPER and MVP design patterns, cross platforms applications using Javascript and TypeScript with React-Native framework. Handled state management via Redux, Mobx, and Context API structures. Applied micro component principles for infrastructure. Used AWS technologies as Cloud computing services integrated with mobile. Created maintainable, scalable, stable, extendable infrastructures, and systems by following the principles of "Clean architecture and use case". Looking for career growth and want to pioneer new technologies.
 
 **Languages and Tools:**  
 
