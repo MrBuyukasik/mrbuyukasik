@@ -2,7 +2,29 @@
 
 ## About Me
 
-Passionate software developer with 5+ years of experience and proven cloud and mobile skills. Experienced in Android, iOS, and cross platforms. Developed Android applications using Kotlin and Java languages with MVC, MVVM, MVP design patterns. Developed iOS applications using Swift with VIPER and MVP design patterns, cross platforms applications using Javascript and TypeScript with React-Native framework. Handled state management via Redux, Mobx, and Context API structures. Applied micro component principles for infrastructure. Used AWS technologies as Cloud computing services integrated with mobile. Created maintainable, scalable, stable, extendable infrastructures, and systems by following the principles of "Clean architecture and use case". Looking for career growth and want to pioneer new technologies.
+I am a Senior Software Engineer specializing in AI-powered mobile solutions, combining technical expertise with a passion for creating innovative and user-focused applications.
+
+What I Do:
+
+ AI Integration: Expertise in integrating advanced AI technologies, including:
+- Large language models (LLMs)
+- Computer vision
+- On-device machine learning using tools like OpenAI APIs and TensorFlow Lite
+
+Intelligent Features: Developed solutions enabling:
+
+- Real-time language processing
+- Intelligent image analysis
+- Predictive user experiences that elevate app functionality
+
+Technical Expertise:
+
+- Mobile Development: Proficient in modern frameworks, including React Native, Kotlin, and Java.
+- Architecture & Optimization: Skilled in building scalable, performance-optimized applications following clean architecture principles.
+- State Management: Experienced in efficient and maintainable approaches that complement AI-driven features.
+
+What Drives Me:
+I am passionate about pushing the boundaries of mobile AI technology, making advanced artificial intelligence accessible and impactful in everyday applications. I thrive on collaborating with forward-thinking teams to build the next generation of intelligent mobile experiences.
 
 **Languages and Tools:**  
 
